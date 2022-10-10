@@ -4,7 +4,7 @@ This is an individual project of a snake-ladder game app. Snakes and ladders is 
 
 ## Deployed Site :
 
-[Snake-Ladder App](https://loquacious-cuchufli-dddf45.netlify.app/)
+[Snake-Ladder App](https://cute-frangipane-74e873.netlify.app/)
 
 ## Features :
 
